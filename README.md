@@ -70,9 +70,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/tD7pb2z.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/tD7pb2z.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
